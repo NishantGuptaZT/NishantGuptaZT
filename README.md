@@ -12,47 +12,34 @@
 
 Platform Engineer working at [@zeotap](https://github.com/zeotap) | Contributing to enterprise-scale infrastructure and DevOps solutions
 
-## 📊 GitHub Statistics
+## 📊 GitHub Contributions Overview
 
-<div align="center">
+### 🔥 2026 Highlights
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NishantGuptaZT&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantGuptaZT&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+```
+📦 Total Contributions:     1,646+ in the last year
+💻 Active Repositories:     48+ repositories
+🏢 Organization:            @zeotap (Platform Engineering)
+📈 Recent Activity:         168 commits in April 2026
+🎯 Focus Areas:             DevOps, Infrastructure, GitOps
+```
 
-</div>
+### 💼 Key Projects & Repositories
 
-### 📈 Contribution Stats
+**Primary Work @ Zeotap:**
 
-<div align="center">
+| Repository | Focus Area | Recent Commits |
+|-----------|------------|----------------|
+| 🗄️ **cdp-central** | Customer Data Platform Infrastructure | 153 (April 2026) |
+| 🚀 **zeotap-gitops** | GitOps Workflows & Automation | 7 (April 2026) |
+| ⚙️ **provision-v2** | Infrastructure Provisioning | Active |
+| 📦 **48+ Repositories** | Cross-team contributions | Ongoing |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NishantGuptaZT&theme=radical&hide_border=true)
-
-</div>
-
-### 📌 Contribution Graph
-
-<div align="center">
-
-[![Nishant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NishantGuptaZT&theme=react-dark&hide_border=true&area=true)](https://github.com/NishantGuptaZT)
-
-</div>
-
-### 💼 Key Repositories & Contributions
-
-**Primary Contributions:**
-- 🏢 Working on enterprise projects at [@zeotap](https://github.com/zeotap)
-- 💻 **cdp-central** - Customer Data Platform infrastructure
-- 🚀 **zeotap-gitops** - GitOps workflows and automation
-- ⚙️ **provision-v2** - Infrastructure provisioning and management
-- 📦 Contributing to 48+ repositories across the organization
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NishantGuptaZT&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/NishantGuptaZT)
-
-</div>
+**Impact Areas:**
+- 🏗️ Platform Infrastructure & Architecture
+- 🔄 CI/CD Pipeline Optimization
+- 🛡️ Security & Compliance Automation
+- 📊 Monitoring & Observability
 
 ### ⚡ Recent Activity
 
